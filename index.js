@@ -1,0 +1,1 @@
+const Width = 20;
